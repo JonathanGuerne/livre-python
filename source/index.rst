@@ -10,6 +10,7 @@ Table des matières
 .. toctree::
    :maxdepth: 1
 
+   introduction.rst
    builtins/index.rst
    dunders/index.rst
    super/index.rst
@@ -21,6 +22,7 @@ Table des matières
    hashlib/index.rst
    io/index.rst
    itertools/index.rst
+   invoke/index.rst
    json/index.rst
    math/index.rst
    multiprocessing/index.rst
@@ -80,7 +82,7 @@ Table des matières
  - Sylvain Renaud <sylvain.renaud@he-arc.ch>
  - Thibaut Piquerez <thibaut.piquerez@he-arc.ch>
  - Yoan Blanc <yoan.blanc@he-arc.ch>
- 
+
 :Date:  2017-03-16
 :Licence:
         :ref:`licence`
